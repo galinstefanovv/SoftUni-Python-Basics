@@ -54,4 +54,4 @@ My solutions are organized into folders representing each lesson and type of exe
 - **GitHub**: [View](https://github.com/galinstefanovv)
 
 ## 📚 Navigation
-> ~~Previous course~~ | [Next course: Programming Fundamentals with Python - September 2022](https://github.com/galinstefanovv/SoftUni-Python-Fundamentals)
+> Next course: [**`Python Fundamentals`**](https://github.com/galinstefanovv/SoftUni-Python-Fundamentals)
